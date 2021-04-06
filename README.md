@@ -5,4 +5,4 @@ Install Python into laptop if you don't have it already using https://www.python
 Install pyautogui by copying this in the app terminal, which comes with your Macbook:
 python3 -m pip install pyautogui
 
-Download the program and open it in Python. Run the program while holing your cursor on the typing space in iMessages.
+Download the program and open it in Python. Run the program while holding your cursor on the typing space in iMessages.
